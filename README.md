@@ -19,11 +19,16 @@ To install this application on your local computer you would need to have a data
 Clone this repo using  "git clone" command. Run the following commands from the command line of the root folder:
 
 npm run test
+
 npm run seed
+
 npm start server
 
 To use this application you will need to deploy it in heroku and it will necessitate also use JawsDB. The video below shows the walkthrough video on youtube:
 https://youtu.be/94BtlbCCMxY.
+
+The screenshot of what the app looks like is shown below:
+<img width="946" alt="tech" src="https://user-images.githubusercontent.com/87605893/147160720-a2b029e0-805e-467d-8d5a-040a33bbdd1c.PNG">
 
 ## License
 MIT License
