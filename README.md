@@ -1,6 +1,7 @@
 # tech-blog
 
 This application is a Tech blog application that makes use of the MVC (Model View Controller) paradigm. Most developers spend their time writing codes for new applications and debugging existing code, and another group of developers spend their time explaining the code through tech blogs.
+https://techblog-hn.herokuapp.com/
 
 ![License badge](https://img.shields.io/badge/license-MIT-builtinModules.svg)
      
